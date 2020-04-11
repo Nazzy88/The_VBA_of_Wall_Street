@@ -1,6 +1,5 @@
 # The_VBA_of_Wall_Street
 Advanced VBA in Excel
-# VBA Homework - The VBA of Wall Street
 
 ## Background
 
