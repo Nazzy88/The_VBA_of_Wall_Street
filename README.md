@@ -23,7 +23,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-![moderate_solution](The_VBA_of_Wall_Street/moderate_solution.png)
+![moderate_solution](The_VBA_of_Wall_Street/blob/master/moderate_solution.png)
 
 ### CHALLENGES
 
