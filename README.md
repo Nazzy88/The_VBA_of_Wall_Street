@@ -23,7 +23,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](The_VBA_of_Wall_Street/moderate_solution.png)
 
 ### CHALLENGES
 
@@ -31,4 +31,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-![hard_solution](Images/hard_solution.png)
+![hard_solution](The_VBA_of_Wall_Street/moderate_solution.png)
