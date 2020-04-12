@@ -7,7 +7,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock market analyst
 
-![stock Market](Images/stockmarket.j
+![stock Market](images/stockmarket.jpg)
 
 ## Instructions
 
@@ -23,7 +23,8 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-![moderate_solution](The_VBA_of_Wall_Street/blob/master/moderate_solution.png)
+![moderate_solution](images/moderate_solution.png)
+
 
 ### CHALLENGES
 
@@ -31,4 +32,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-![hard_solution](The_VBA_of_Wall_Street/moderate_solution.png)
+![hard_solution](images/hard_solution.png)
